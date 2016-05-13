@@ -1,5 +1,5 @@
-# react-dome
-react+webpack做的一个鬼畜dome
+# react-demo
+react+webpack做的一个鬼畜demo
 原网站http://www.cybroadcast.cn/
 
 `npm install`
